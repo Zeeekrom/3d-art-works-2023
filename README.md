@@ -50,6 +50,6 @@ This reel is where I started. In the following year I moved from art toward tech
 
 ## Rights and contact
 
-© 2023 Yuxiang (Evan) Huang. The video and stills are shared for portfolio viewing. Please ask before reusing them.
+© 2023 3D Art Works 2023. All rights reserved; see [LICENSE](LICENSE). Without written permission, nothing in this repository may be copied, republished or adapted, and the project's code and design may not be rebuilt, whether by hand, with automated tools or with AI cloning tools. The code may not be reverse engineered except where the law allows, and the content may not be scraped, bulk-downloaded or used to train or evaluate AI models. Uses the law already allows, such as fair dealing for review or news reporting, are not affected. Sharing links is welcome. Third-party music, software and AI models used in the reel keep their own licences.
 
 Contact: [LinkedIn](https://www.linkedin.com/in/evan-h-165976301/)

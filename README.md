@@ -6,7 +6,7 @@ An early art showreel from September 2023. I made it while studying for an Assoc
 
 ![Preview](media/preview.gif)
 
-**[Watch the reel](media/3d-art-works-2023.mp4)** (2 min, with music) · [download the MP4](https://github.com/Zeeekrom/3d-art-works-2023/raw/main/media/3d-art-works-2023.mp4)
+**[Watch the reel](https://zeeekrom.github.io/3d-art-works-2023/reel/)** (2 min, with music)
 
 ## What is in the reel
 

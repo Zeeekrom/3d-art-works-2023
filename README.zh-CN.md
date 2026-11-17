@@ -6,7 +6,7 @@
 
 ![预览](media/preview.gif)
 
-**[观看作品集视频](media/3d-art-works-2023.mp4)**（2 分钟，有背景音乐）· [下载 MP4](https://github.com/Zeeekrom/3d-art-works-2023/raw/main/media/3d-art-works-2023.mp4)
+**[观看作品集视频](https://zeeekrom.github.io/3d-art-works-2023/reel/)**（2 分钟，有背景音乐）
 
 ## 视频里有什么
 
